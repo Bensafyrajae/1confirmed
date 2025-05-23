@@ -1,0 +1,24 @@
+2025-05-22 13:52:58:5258 [31merror[39m: [31mRegistration error: User.findByEmail is not a function[39m
+2025-05-22 13:53:00:530 [31merror[39m: [31mRegistration error: User.findByEmail is not a function[39m
+2025-05-22 13:53:05:535 [31merror[39m: [31mLogin error: User.findByEmail is not a function[39m
+2025-05-22 14:06:10:610 [31merror[39m: [31mErreur d'inscription: notNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:10:24:1024 [31merror[39m: [31mErreur d'inscription: notNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:19:40:1940 [31merror[39m: [31mRegistration error: notNull Violation: User.password_hash cannot be null,[39m
+[31mnotNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:21:30:2130 [31merror[39m: [31mRegistration error: notNull Violation: User.password_hash cannot be null,[39m
+[31mnotNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:24:47:2447 [31merror[39m: [31mRegistration error: db is not defined[39m
+2025-05-22 14:30:07:307 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 14:30:08:308 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 14:33:28:3328 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:24:36:2436 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:24:36:2436 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:24:42:2442 [31merror[39m: [31mLogin error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:39:59:3959 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:40:05:405 [31merror[39m: [31mLogin error: il n'y a pas de paramètre $1[39m
+2025-05-22 18:42:43:4243 [31merror[39m: [31mLogin error: il n'y a pas de paramètre $1[39m
+2025-05-22 18:42:49:4249 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m

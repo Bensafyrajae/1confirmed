@@ -1,0 +1,412 @@
+2025-05-22 13:32:03:323 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:32:04:324 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:32:04:324 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:32:05:325 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:32:05:325 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:32:05:325 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:32:05:325 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:32:05:325 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:32:05:325 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:32:05:325 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:32:05:325 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:32:05:325 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:33:15:3315 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:33:16:3316 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:33:16:3316 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:33:17:3317 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:17:3317 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:33:17:3317 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:17:3317 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:17:3317 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:17:3317 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:17:3317 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:17:3317 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:17:3317 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:33:43:3343 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:33:44:3344 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:33:44:3344 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:33:45:3345 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:45:3345 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:33:45:3345 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:45:3345 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:45:3345 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:45:3345 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:45:3345 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:45:3345 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:33:45:3345 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:35:20:3520 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:35:21:3521 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:35:21:3521 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:35:22:3522 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:22:3522 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:35:22:3522 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:22:3522 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:22:3522 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:22:3522 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:22:3522 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:22:3522 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:22:3522 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:35:33:3533 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:35:34:3534 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:35:34:3534 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:35:35:3535 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:35:3535 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:35:35:3535 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:35:3535 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:35:3535 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:35:3535 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:35:3535 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:36:3536 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:35:36:3536 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:36:43:3643 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:36:43:3643 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:36:43:3643 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:36:44:3644 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:36:44:3644 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:36:44:3644 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:36:44:3644 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:36:44:3644 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:36:44:3644 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:36:44:3644 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:36:44:3644 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:36:45:3645 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:38:03:383 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:38:03:383 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:38:03:383 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:38:04:384 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:38:04:384 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:38:04:384 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:38:04:384 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:38:04:384 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:38:04:384 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:38:04:384 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:38:04:384 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:38:04:384 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:50:14:5014 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:50:15:5015 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:50:15:5015 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:50:16:5016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:50:16:5016 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:50:16:5016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:50:16:5016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:50:16:5016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:50:16:5016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:50:16:5016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:50:16:5016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:50:16:5016 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:51:16:5116 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 13:51:17:5117 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 13:51:17:5117 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 13:51:18:5118 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:51:18:5118 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 13:51:18:5118 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:51:18:5118 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:51:18:5118 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:51:19:5119 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:51:19:5119 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:51:19:5119 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 13:51:19:5119 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 13:52:58:5258 [31merror[39m: [31mRegistration error: User.findByEmail is not a function[39m
+2025-05-22 13:53:00:530 [31merror[39m: [31mRegistration error: User.findByEmail is not a function[39m
+2025-05-22 13:53:05:535 [31merror[39m: [31mLogin error: User.findByEmail is not a function[39m
+2025-05-22 14:04:07:47 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:04:08:48 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:04:08:48 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:04:08:48 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:04:08:48 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:04:08:48 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:04:09:49 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:04:09:49 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:04:09:49 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:04:09:49 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:04:09:49 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:04:09:49 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:05:51:551 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:05:53:553 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:05:53:553 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:05:56:556 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:05:56:556 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:05:56:556 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:05:56:556 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:05:56:556 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:05:56:556 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:05:56:556 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:05:56:556 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:05:57:557 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:06:10:610 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:06:10:610 [31merror[39m: [31mErreur d'inscription: notNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:06:18:618 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:06:21:621 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:06:24:624 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:06:55:655 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:12:1012 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:10:14:1014 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:10:14:1014 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:10:16:1016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:16:1016 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:10:16:1016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:16:1016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:16:1016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:16:1016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:16:1016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:16:1016 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:16:1016 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:10:24:1024 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:24:1024 [31merror[39m: [31mErreur d'inscription: notNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:10:37:1037 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:10:38:1038 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:04:124 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:12:04:124 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:12:04:124 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:12:05:125 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:05:125 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:12:05:125 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:05:125 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:05:125 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:05:125 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:05:125 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:05:125 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:05:125 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:12:49:1249 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:12:50:1250 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:12:50:1250 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:12:52:1252 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:52:1252 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:12:52:1252 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:52:1252 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:52:1252 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:52:1252 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:52:1252 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:52:1252 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:12:52:1252 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:13:30:1330 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:13:32:1332 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:13:32:1332 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:13:32:1332 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:13:32:1332 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:13:32:1332 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:13:32:1332 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:13:32:1332 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:13:32:1332 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:13:32:1332 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:13:33:1333 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:13:33:1333 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:18:30:1830 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:18:33:1833 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:18:33:1833 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:19:11:1911 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:19:13:1913 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:19:13:1913 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:19:14:1914 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:14:1914 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:19:14:1914 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:15:1915 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:15:1915 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:15:1915 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:15:1915 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:15:1915 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:15:1915 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:19:40:1940 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:19:40:1940 [31merror[39m: [31mRegistration error: notNull Violation: User.password_hash cannot be null,[39m
+[31mnotNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:19:47:1947 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:20:58:2058 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:21:16:2116 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:21:24:2124 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:21:30:2130 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:21:30:2130 [31merror[39m: [31mRegistration error: notNull Violation: User.password_hash cannot be null,[39m
+[31mnotNull Violation: User.first_name cannot be null,[39m
+[31mnotNull Violation: User.last_name cannot be null[39m
+2025-05-22 14:24:05:245 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:24:07:247 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:24:07:247 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:24:09:249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:09:249 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:24:09:249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:09:249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:09:249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:09:249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:09:249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:09:249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:09:249 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:24:33:2433 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:24:35:2435 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:24:35:2435 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:24:37:2437 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:37:2437 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:24:37:2437 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:24:37:2437 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:24:47:2447 [31merror[39m: [31mRegistration error: db is not defined[39m
+2025-05-22 14:26:10:2610 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:26:11:2611 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:26:11:2611 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:26:11:2611 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:26:11:2611 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:26:11:2611 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:26:11:2611 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:26:28:2628 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:26:29:2629 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:26:29:2629 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:26:29:2629 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:26:29:2629 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:26:29:2629 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:26:29:2629 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:27:16:2716 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:27:16:2716 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:27:16:2716 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:27:17:2717 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:27:18:2718 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:27:18:2718 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:27:18:2718 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:27:18:2718 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:27:18:2718 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:27:18:2718 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:27:18:2718 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:27:18:2718 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:27:38:2738 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:27:39:2739 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:27:39:2739 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:28:11:2811 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:28:12:2812 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:28:12:2812 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:28:25:2825 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:28:26:2826 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:28:26:2826 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:28:26:2826 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:28:26:2826 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:28:26:2826 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:28:26:2826 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:29:06:296 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:29:06:296 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:29:06:296 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:29:07:297 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:07:297 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:29:07:297 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:07:297 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:07:297 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:07:297 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:07:297 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:07:297 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:07:297 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:29:54:2954 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:29:54:2954 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:29:54:2954 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:29:55:2955 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:55:2955 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:29:55:2955 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:29:55:2955 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:30:07:307 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:30:07:307 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 14:30:08:308 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:30:08:308 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 14:33:03:333 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:33:04:334 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:33:04:334 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:33:05:335 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:05:335 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:33:05:335 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:05:335 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:05:335 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:05:335 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:05:335 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:05:335 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:05:335 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:33:18:3318 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 14:33:19:3319 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 14:33:19:3319 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 14:33:20:3320 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:20:3320 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 14:33:20:3320 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:20:3320 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 14:33:28:3328 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 14:33:28:3328 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:07:41:741 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 15:07:42:742 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 15:07:42:742 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 15:07:43:743 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:07:43:743 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 15:07:43:743 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:07:43:743 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 15:15:38:1538 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 15:15:39:1539 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 15:15:39:1539 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 15:15:43:1543 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:15:43:1543 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 15:15:43:1543 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:15:43:1543 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 15:16:19:1619 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 15:16:21:1621 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 15:16:21:1621 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 15:16:29:1629 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:16:29:1629 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 15:16:29:1629 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:16:29:1629 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 15:19:36:1936 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 15:19:38:1938 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 15:19:38:1938 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 15:19:40:1940 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:19:40:1940 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 15:19:40:1940 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:19:40:1940 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 15:21:21:2121 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 15:21:21:2121 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 15:21:21:2121 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 15:21:24:2124 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:21:24:2124 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 15:21:24:2124 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:21:24:2124 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 15:22:23:2223 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 15:22:24:2224 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 15:22:24:2224 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 15:22:25:2225 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:22:25:2225 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 15:22:25:2225 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:22:25:2225 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 15:24:36:2436 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:24:36:2436 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:24:36:2436 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:24:36:2436 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:24:42:2442 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:24:42:2442 [31merror[39m: [31mLogin error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:39:59:3959 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:39:59:3959 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 15:40:05:405 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 15:40:05:405 [31merror[39m: [31mLogin error: il n'y a pas de paramètre $1[39m
+2025-05-22 18:42:43:4243 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 18:42:43:4243 [31merror[39m: [31mLogin error: il n'y a pas de paramètre $1[39m
+2025-05-22 18:42:49:4249 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 18:42:49:4249 [31merror[39m: [31mRegistration error: il n'y a pas de paramètre $1[39m
+2025-05-22 19:15:34:1534 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 19:15:35:1535 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 19:15:35:1535 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 19:15:36:1536 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 19:15:36:1536 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 19:15:36:1536 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 19:15:36:1536 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 19:22:38:2238 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 19:22:41:2241 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 19:22:41:2241 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 19:22:42:2242 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 19:22:42:2242 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 19:22:42:2242 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 19:22:42:2242 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-22 19:32:25:3225 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-22 19:32:30:3230 [32minfo[39m: [32mWhatsApp service running in simulation mode[39m
+2025-05-22 19:32:30:3230 [32minfo[39m: [32mService WhatsApp en mode simulation[39m
+2025-05-22 19:32:33:3233 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 19:32:33:3233 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-22 19:32:33:3233 [37mdebug[39m: [37mSequelize:[39m
+2025-05-22 19:32:33:3233 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-23 10:08:16:816 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-23 10:08:20:820 [37mdebug[39m: [37mSequelize:[39m
+2025-05-23 10:08:20:820 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-23 10:08:20:820 [37mdebug[39m: [37mSequelize:[39m
+2025-05-23 10:08:20:820 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
+2025-05-23 10:09:51:951 [32minfo[39m: [32mConfiguration de la base de données:[39m
+2025-05-23 10:09:53:953 [37mdebug[39m: [37mSequelize:[39m
+2025-05-23 10:09:53:953 [32minfo[39m: [32mConnexion à PostgreSQL établie avec succès.[39m
+2025-05-23 10:09:53:953 [37mdebug[39m: [37mSequelize:[39m
+2025-05-23 10:09:53:953 [32minfo[39m: [32mBase de données synchronisée avec succès.[39m
